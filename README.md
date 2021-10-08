@@ -9,7 +9,7 @@ https://juansuarezz-servidorflask.zeet.app/message
 
 Final Result.
 
-<img src="assets/screenshoot.png" alt="Resultado final taller de flutter basico" title="Resultado final taller de flutter basico" height="500" />
+<img src="assets/screenshot.png" alt="Resultado final taller de flutter basico" title="Resultado final taller de flutter basico" height="500" />
 
 ## Getting Started
 
