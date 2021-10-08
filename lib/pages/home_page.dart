@@ -51,10 +51,10 @@ class Content extends StatelessWidget {
           SizedBox(
             height: 50,
           ),
-          Text(
-            "app en desarrollo!",
-            style: TextStyle(color: Colors.blue),
-          )
+          // Text(
+          //   "app en desarrollo!",
+          //   style: TextStyle(color: Colors.blue),
+          // )
         ],
       ),
     );
